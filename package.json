@@ -1,0 +1,61 @@
+{
+  "name": "silas-workspace",
+  "displayName": "Silas Workpspace",
+  "description": "my personal workspace's extensions.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "icon": "icon.png",
+  "publisher": "Reyn5Teens7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoooReyn/SilasWorkspace"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "aljazsim.tsco",
+    "BeardedBear.beardedicons",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "CodeInChinese.EnglishChineseDictionary",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens-insiders",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-complete-tag",
+    "Gruntfuggly.todo-tree",
+    "HookyQR.minify",
+    "huang12zheng.protobuf-helper",
+    "JiuMengDZ.superpathcopy",
+    "kangping.protobuf",
+    "magicstack.MagicPython",
+    "mike-co.import-sorter",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.live-server",
+    "ms-vscode.powershell",
+    "msjsdiag.debugger-for-edge",
+    "naumovs.color-highlight",
+    "redhat.vscode-yaml",
+    "Reyn5Teens7.ever-green-light-color-theme",
+    "Reyn5Teens7.movescriptforcocoscreator",
+    "rvest.vs-code-prettier-eslint",
+    "SonarSource.sonarlint-vscode",
+    "stringham.move-ts",
+    "stuartwang.luapanda",
+    "wmaurer.change-case",
+    "xabikos.JavaScriptSnippets",
+    "yutent.file-stat"
+  ]
+}
